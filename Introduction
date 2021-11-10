@@ -1,9 +1,9 @@
-Data
+## Data
 Data extracted from Lending Club include information from loan application such as interest rate, installment, the length of loan, etc.
 
-Methodology
+## Methodology
 During data cleaning and exploring, I used Pandas and created Pandas data frame to modify it. Seaborn, Matplotlib, and Plotly were introduced for data visulization. 
 Sklearn and XGBoost were used for data modeling.
 
-Result
+## Result
 The model has approximately 70% accuracy when predicting loan's status.
