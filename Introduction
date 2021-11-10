@@ -6,3 +6,4 @@ During data cleaning and exploring, I used Pandas and created Pandas data frame 
 Sklearn and XGBoost were used for data modeling.
 
 Result
+The model has approximately 70% accuracy when predicting loan's status.
